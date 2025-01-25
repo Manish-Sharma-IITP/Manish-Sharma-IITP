@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manish-Sharma-IITP
+- 👋 Hi, I’m @Manish_Sharma_IITP
 - 👀 I’m interested in data Sicene and Business Intelligence
 - 🌱 I’m currently learning sql, excel, python, business&economics, powerBI
 - 💞️ I’m looking to collaborate on building sql peoject and excel, powerBI, python
